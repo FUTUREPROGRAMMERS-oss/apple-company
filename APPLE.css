@@ -1,0 +1,180 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+
+header{
+    background-image:url(apple.jpg.jpg);
+    background-image:cover; 
+    background-size:100%;
+    height:100vh; 
+}
+.navbar{
+    float:right;
+    margin-top:30px;    
+
+        
+}
+.navbar li{
+    list-style:none;
+    display:inline-block;
+    margin-right:30px;
+    margin-bottom:30pxS;
+}
+.navbar li a{
+    text-decoration:none ;
+    font-size:20px;
+    padding:20px 20px;
+    text-transform: uppercase;
+    color:white
+}
+.navbar li a:hover{
+    background-color: navajowhite(225,0,0);
+}
+.navbar li a.active{
+    border:1px solid #fff;
+}
+.titleheader{
+    width:1200px;
+    position:absolute;
+    padding:30px;
+    margin-bottom:40px;
+}
+h1{
+    text-transform:uppercase;
+    font-family:"Roboto",sans-serif;
+*     font-size:30px;
+    margin-top:200px;
+    color:white;
+    font-size:40px;
+}
+.btn{
+    padding:20px 20px;
+    text-align: center;
+    margin-right:5px;
+    margin-top:20px;  
+}
+/* --about-- */
+.about{
+    padding:80px 0 80px 0;
+}
+.about p{
+    width:45%;
+    font-family:cairo;
+    font-size:20px;
+    float:left;
+    margin-left:5%;
+}
+.about p span{
+    display:block;
+    font-family:fantasy;
+    font-size:40px;
+    color:#21455e;
+    border-bottom:solid thin red;
+    width:33%;
+    margin-bottom:20px;
+}
+.about p{
+    border-bottom:solid thin red; 
+}
+.services{
+    padding:80px 0 80px 0;
+}
+.services p{
+    width:45%;
+    font-family:cairo;
+    font-size:20px;
+    float:left;
+    margin-left:5%;
+}
+
+.services p span{
+    display:block;
+    font-family:fantasy;
+    font-size:40px;
+    color:#21455e;
+    border-bottom:solid thin red;
+    width:33%;
+    margin-bottom:20px;
+}
+.news{
+     padding:80px 0 80px 0;
+}
+.news p{
+     width:45%;
+    font-family:cairo;
+    font-size:20px;
+    float:left;
+    margin-left:5%;
+}
+.news p span{
+     display:block;
+    font-family:fantasy;
+    font-size:40px;
+    color:#21455e;
+    border-bottom:solid thin red;
+    width:33%;
+    margin-bottom:20px;
+}
+.minu span{
+    text-align: center;
+    display:block;
+    font-family:fantasy;
+    font-size:50px;
+    color:#21455e;
+    border-bottom:solid thin red;
+    width:33%;
+    margin-bottom:20px;
+    margin-left:30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
